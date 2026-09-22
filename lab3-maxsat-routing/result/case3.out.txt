@@ -1,0 +1,25 @@
+x_coors 10
+0 1 2 3 4 5 6 7 8 9
+y_coors 22
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+net4 0
+net31 0
+net22 0
+net23 0
+net24 0
+net14 0
+net3 0
+net16 0
+net15 0
+net6 0
+net12 0
+net13 0
+net20 0
+net17 0
+net18 0
+net8 0
+net7 0
+net19 0
+net80 0
+net10 0
+net2 0

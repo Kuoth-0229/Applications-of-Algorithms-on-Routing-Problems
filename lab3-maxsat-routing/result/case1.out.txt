@@ -1,0 +1,8 @@
+x_coors 6
+0 2 4 6 8 10
+y_coors 6
+0 2 4 6 8 10
+net0 0
+net1 0
+net2 0
+net3 0

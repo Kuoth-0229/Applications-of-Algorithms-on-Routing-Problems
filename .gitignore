@@ -1,0 +1,44 @@
+# build artifacts
+*.o
+*.d
+*.a
+*.so
+*.ko
+*.mod
+*.mod.c
+obj/
+.tmp_versions/
+Module.symvers
+modules.order
+
+# binaries
+Lab1
+Lab2
+Lab3
+router
+partition
+sched_demo*
+!sched_demo_*.c
+test_revstr
+test_tempbuf
+test_concurrent
+kfetch
+!kfetch.c
+!kfetch.h
+
+# outputs / logs / envs
+*.out
+!*.out.txt
+*.sol
+tmp*.txt
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# editor / agent
+.vscode/
+.idea/
+.claude/
+.codex
+.agents/

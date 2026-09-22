@@ -1,0 +1,29 @@
+x_coors 19
+4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76
+y_coors 19
+4 8 12 16 20 24 28 32 36 40 44 48 52 56 60 64 68 72 76
+net00 0
+net01 0
+net02 0
+net03 0
+net04 0
+net05 0
+net06 0
+net07 0
+net08 0
+net09 0
+net10 0
+net11 0
+net12 0
+net13 0
+net14 0
+net15 0
+net16 0
+net17 0
+net18 0
+net19 0
+net20 0
+net21 0
+net22 0
+net23 0
+net24 0

@@ -1,0 +1,2 @@
+[case1] BUILD ok | Lab3 ok (1781164168-1781164168=0s, rc=0) | output exists | VERIFIER PASS | Total wire length: 64 Total via number: 0 Total cost: 64 
+[case2] BUILD ok | Lab3 ok (1781164168-1781164168=0s, rc=0) | output exists | VERIFIER PASS | Total wire length: 180 Total via number: 0 Total cost: 180 
